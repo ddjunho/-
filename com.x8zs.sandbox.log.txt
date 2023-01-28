@@ -1,0 +1,16 @@
+2022-11-17 19:08:33 19786/19786 D/PretiumManager: [doLoadLocalStatusSync] from = X8Application_onCreate_loadLocalStatusSync, file = /data/user/0/com.x8zs.sandbox/files/pretium, file not exist, use none
+
+2022-11-17 19:16:25 31820/31820 D/PretiumManager: [doLoadLocalStatusSync] from = X8Application_onCreate_loadLocalStatusSync, file = /data/user/0/com.x8zs.sandbox/files/pretium, file not exist, use none
+
+2022-11-17 19:20:27 6606/6606 D/PretiumManager: [doLoadLocalStatusSync] from = X8Application_onCreate_loadLocalStatusSync, file = /data/user/0/com.x8zs.sandbox/files/pretium, file not exist, use none
+
+2022-11-17 19:27:56 14478/14478 D/PretiumManager: [doLoadLocalStatusSync] from = X8Application_onCreate_loadLocalStatusSync, file = /data/user/0/com.x8zs.sandbox/files/pretium, file not exist, use none
+
+2022-11-17 19:45:35 25575/25575 D/PretiumManager: [doLoadLocalStatusSync] from = X8Application_onCreate_loadLocalStatusSync, file = /data/user/0/com.x8zs.sandbox/files/pretium, file not exist, use none
+
+2022-11-18 00:37:02 25882/25882 D/PretiumManager: [doLoadLocalStatusSync] from = X8Application_onCreate_loadLocalStatusSync, file = /data/user/0/com.x8zs.sandbox/files/pretium, file not exist, use none
+
+2022-11-18 00:37:33 28209/28209 D/PretiumManager: [doLoadLocalStatusSync] from = X8Application_onCreate_loadLocalStatusSync, file = /data/user/0/com.x8zs.sandbox/files/pretium, file not exist, use none
+
+2022-11-18 00:43:55 3662/3662 D/PretiumManager: [doLoadLocalStatusSync] from = X8Application_onCreate_loadLocalStatusSync, file = /data/user/0/com.x8zs.sandbox/files/pretium, file not exist, use none
+
